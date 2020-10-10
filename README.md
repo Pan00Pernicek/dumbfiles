@@ -1,3 +1,4 @@
 # dumbfiles
 my dotfiles
-/home/pan-pernicek/.config/powershell
+
+powerhell = ~/.config/powershell/Microsoft.PowerShell_profile.ps1
