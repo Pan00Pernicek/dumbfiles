@@ -1,0 +1,5 @@
+fn PROMPT
+	printf %b "\033[38;2;152;120;164m" $(cat /sys/class/power_supply/BAT1/capacity)"%" "|" "\033[38;2;110;90;100m" $(basename $PWD) "\033[38;2;80;60;70m" "×" $(tput sgr0)
+end
+#132, 120, 144
+#182, 172, 170
