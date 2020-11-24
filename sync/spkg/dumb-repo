@@ -1,1 +1,3 @@
 #spkg repo
+btop=https://raw.githubusercontent.com/Pan00Pernicek/dumbfiles/main/sync/spkg/dumb-repo
+spkg sync ${!1}
