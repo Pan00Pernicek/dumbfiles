@@ -1,4 +1,0 @@
-#spkg repo
-spkg spkg-s btop https://raw.githubusercontent.com/Pan00Pernicek/dumbfiles/main/sync/spkg/btop
-spkg spkg-s xbps-search https://raw.githubusercontent.com/Pan00Pernicek/dumbfiles/main/sync/spkg/xbps-search
-spkg sync $(spkg spkg-g $1) $2
