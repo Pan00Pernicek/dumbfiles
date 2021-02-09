@@ -1,4 +1,0 @@
-#!/bin/sh
-#i dint made it alias because i work with multiple shells usually
-xbps-query -Rs $1
-#happy thonking
