@@ -1,0 +1,6 @@
+for s in $(brl list)
+do
+	alias $s:="strat $s"
+	alias $s+:="strat $s"
+	export $s="/bedrock/strata/$s"
+done
