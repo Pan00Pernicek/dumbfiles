@@ -1,5 +1,5 @@
 for s in (brl list)
 	alias $s:="strat $s"
-	alias $s+:="strat $s"
+	alias $s+:="strat -r $s"
 	export $s="/bedrock/strata/$s"
 end
